@@ -1,0 +1,14 @@
+documentNumber,apiSubstanceId,apiName,ksmSubstanceId,ksmCode,chemicalName,casNumber,molecularFormula,molecularWeight,supplierOrgId,supplierName,releaseDate
+U99-0001-01,1001,Acetaminophen,1028,KSM-EAB,ethyl 4-aminobenzoate,94-09-7,C9H11NO2,165.19,SYNTH-00015,fmg Co.Ltd,2021-01-08
+U99-0001-01,1001,Acetaminophen,1022,KSM-PIP,1-(2-bromoethyl)piperazine dihydrobromide,17329-41-8,C6H14Br3N2,369.92,SYNTH-00009,Amazon.com Services LLC,2018-06-14
+U99-0002-01,1002,Dextromethorphan Hydrobromide,1028,KSM-EAB,ethyl 4-aminobenzoate,94-09-7,C9H11NO2,165.19,SYNTH-00008,"Tarbis Farma, S.L.",2023-10-27
+U99-0002-01,1002,Dextromethorphan Hydrobromide,1030,KSM-CPB,3-chloroperoxybenzoic acid,937-14-4,C7H5ClO3,172.57,SYNTH-00010,"Teva Pharmaceuticals, Inc.",2022-12-17
+U99-0003-01,1003,Guaifenesin,1022,KSM-PIP,1-(2-bromoethyl)piperazine dihydrobromide,17329-41-8,C6H14Br3N2,369.92,SYNTH-00006,Manx Healthcare Ltd,2022-11-21
+U99-0003-01,1003,Guaifenesin,1023,KSM-BIM,"1,3-dihydro-2H-benzimidazol-2-one",615-16-7,C7H6N2O,134.14,SYNTH-00010,"Teva Pharmaceuticals, Inc.",2023-07-08
+U99-0003-01,1003,Guaifenesin,1028,KSM-EAB,ethyl 4-aminobenzoate,94-09-7,C9H11NO2,165.19,SYNTH-00005,A.Vogel Limited,2023-04-10
+U99-0004-01,1004,Phenylephrine Hydrochloride,1031,KSM-TFA,trifluoroacetic anhydride,407-25-0,C4F6O3,210.03,SYNTH-00008,"Tarbis Farma, S.L.",2021-09-27
+U99-0004-01,1004,Phenylephrine Hydrochloride,1028,KSM-EAB,ethyl 4-aminobenzoate,94-09-7,C9H11NO2,165.19,SYNTH-00007,Hormosan Pharma Gmbh,2019-03-05
+U99-0004-01,1004,Phenylephrine Hydrochloride,1025,KSM-MPZ,3-methylpiperazine,120-73-0,C5H12N2,100.16,SYNTH-00015,fmg Co.Ltd,2019-10-21
+U99-0005-01,1005,Sodium Fluoride,1032,KSM-DAD,diethyl azodicarboxylate,1972-28-7,C6H10N2O4,174.16,SYNTH-00008,"Tarbis Farma, S.L.",2023-07-23
+U99-0005-01,1005,Sodium Fluoride,1029,KSM-MIM,2-methylimidazole,693-98-1,C4H6N2,82.1,SYNTH-00007,Hormosan Pharma Gmbh,2022-06-29
+U99-0005-01,1005,Sodium Fluoride,1025,KSM-MPZ,3-methylpiperazine,120-73-0,C5H12N2,100.16,SYNTH-00015,fmg Co.Ltd,2018-05-31

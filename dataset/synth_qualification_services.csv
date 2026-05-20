@@ -1,0 +1,7 @@
+serviceId,name,serviceType
+QS-001,API Manufacturing,Manufacturing
+QS-002,Excipient Supply,Supply
+QS-003,Packaging Material Supply,Supply
+QS-004,Analytical Testing,Testing
+QS-005,Sterile Fill/Finish,Manufacturing
+QS-006,Secondary Packaging,Manufacturing

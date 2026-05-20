@@ -1,0 +1,8 @@
+materialId,name,specification,materialType,SKU
+PM-001,PVC Blister Foil,PVC/Al 250µm,Primary,PM-001
+PM-002,HDPE Bottle 30mL,HDPE natural 30mL,Primary,PM-002
+PM-003,Type I Glass Vial 5mL,Borosilicate 5mL,Primary,PM-003
+PM-004,Aluminium Blister Foil,Al 20µm cold-form,Primary,PM-004
+PM-005,Cardboard Carton Std,SBS 350gsm,Secondary,PM-005
+PM-006,Corrugated Outer Box,B-flute 450gsm,Intermediate,PM-006
+PM-007,Package Insert,115gsm A4,Secondary,PM-007

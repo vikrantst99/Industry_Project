@@ -1,0 +1,61 @@
+recordId,bulkId,substanceId,substanceName,role,strengthValue,strengthUnit,perUnit
+1,FB-00001,1001,Acetaminophen,API,325.0,mg/15mL,tablet
+2,FB-00001,1015,sodium stearyl fumarate,excipient,28.9,mg/15mL,tablet
+3,FB-00001,1017,hypromellose,excipient,57.6,mg/15mL,tablet
+4,FB-00001,1006,microcrystalline cellulose,excipient,94.5,mg/15mL,tablet
+5,FB-00001,1019,polysorbate 80,excipient,69.6,mg/15mL,tablet
+6,FB-00001,1011,talc,excipient,15.9,mg/15mL,tablet
+7,FB-00002,1001,Acetaminophen,API,650.0,mg/15mL,tablet
+8,FB-00002,1016,"starch, pregelatinised",excipient,76.3,mg/15mL,tablet
+9,FB-00002,1018,colloidal silicon dioxide,excipient,78.0,mg/15mL,tablet
+10,FB-00002,1006,microcrystalline cellulose,excipient,37.3,mg/15mL,tablet
+11,FB-00002,1014,silicon dioxide,excipient,32.9,mg/15mL,tablet
+12,FB-00002,1015,sodium stearyl fumarate,excipient,20.0,mg/15mL,tablet
+13,FB-00003,1002,Dextromethorphan Hydrobromide,API,10.0,mg/15mL,tablet
+14,FB-00003,1007,magnesium stearate,excipient,95.6,mg/15mL,tablet
+15,FB-00003,1018,colloidal silicon dioxide,excipient,88.2,mg/15mL,tablet
+16,FB-00003,1010,croscarmellose sodium,excipient,30.0,mg/15mL,tablet
+17,FB-00004,1002,Dextromethorphan Hydrobromide,API,20.0,mg/15mL,tablet
+18,FB-00004,1008,lactose monohydrate,excipient,77.4,mg/15mL,tablet
+19,FB-00004,1013,mannitol,excipient,53.2,mg/15mL,tablet
+20,FB-00004,1019,polysorbate 80,excipient,15.1,mg/15mL,tablet
+21,FB-00004,1006,microcrystalline cellulose,excipient,64.4,mg/15mL,tablet
+22,FB-00004,1017,hypromellose,excipient,85.0,mg/15mL,tablet
+23,FB-00005,1002,Dextromethorphan Hydrobromide,API,40.0,mg/15mL,tablet
+24,FB-00005,1016,"starch, pregelatinised",excipient,62.9,mg/15mL,tablet
+25,FB-00005,1014,silicon dioxide,excipient,19.5,mg/15mL,tablet
+26,FB-00005,1010,croscarmellose sodium,excipient,77.4,mg/15mL,tablet
+27,FB-00005,1015,sodium stearyl fumarate,excipient,56.2,mg/15mL,tablet
+28,FB-00005,1020,polyethylene glycol,excipient,79.0,mg/15mL,tablet
+29,FB-00006,1003,Guaifenesin,API,200.0,mg/15mL,ml
+30,FB-00006,1010,croscarmellose sodium,excipient,92.3,mg/15mL,ml
+31,FB-00006,1008,lactose monohydrate,excipient,61.9,mg/15mL,ml
+32,FB-00006,1013,mannitol,excipient,51.4,mg/15mL,ml
+33,FB-00006,1006,microcrystalline cellulose,excipient,15.6,mg/15mL,ml
+34,FB-00006,1012,povidone,excipient,39.5,mg/15mL,ml
+35,FB-00007,1003,Guaifenesin,API,400.0,mg/15mL,ml
+36,FB-00007,1019,polysorbate 80,excipient,27.7,mg/15mL,ml
+37,FB-00007,1008,lactose monohydrate,excipient,27.9,mg/15mL,ml
+38,FB-00007,1011,talc,excipient,58.9,mg/15mL,ml
+39,FB-00007,1006,microcrystalline cellulose,excipient,12.5,mg/15mL,ml
+40,FB-00008,1003,Guaifenesin,API,800.0,mg/15mL,ml
+41,FB-00008,1007,magnesium stearate,excipient,51.2,mg/15mL,ml
+42,FB-00008,1015,sodium stearyl fumarate,excipient,11.6,mg/15mL,ml
+43,FB-00008,1010,croscarmellose sodium,excipient,77.3,mg/15mL,ml
+44,FB-00008,1016,"starch, pregelatinised",excipient,77.8,mg/15mL,ml
+45,FB-00008,1011,talc,excipient,17.2,mg/15mL,ml
+46,FB-00009,1004,Phenylephrine Hydrochloride,API,5.0,mg/15mL,ml
+47,FB-00009,1008,lactose monohydrate,excipient,95.0,mg/15mL,ml
+48,FB-00009,1018,colloidal silicon dioxide,excipient,20.7,mg/15mL,ml
+49,FB-00009,1011,talc,excipient,55.1,mg/15mL,ml
+50,FB-00009,1007,magnesium stearate,excipient,62.6,mg/15mL,ml
+51,FB-00010,1004,Phenylephrine Hydrochloride,API,10.0,mg/15mL,ml
+52,FB-00010,1009,hydroxypropyl methylcellulose,excipient,93.2,mg/15mL,ml
+53,FB-00010,1007,magnesium stearate,excipient,76.8,mg/15mL,ml
+54,FB-00010,1017,hypromellose,excipient,70.5,mg/15mL,ml
+55,FB-00011,1004,Phenylephrine Hydrochloride,API,20.0,mg/15mL,ml
+56,FB-00011,1018,colloidal silicon dioxide,excipient,34.6,mg/15mL,ml
+57,FB-00011,1020,polyethylene glycol,excipient,99.5,mg/15mL,ml
+58,FB-00011,1019,polysorbate 80,excipient,66.7,mg/15mL,ml
+59,FB-00011,1009,hydroxypropyl methylcellulose,excipient,46.6,mg/15mL,ml
+60,FB-00011,1011,talc,excipient,54.2,mg/15mL,ml

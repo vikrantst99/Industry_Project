@@ -1,0 +1,31 @@
+siteId,siteCode,orgId,name,siteCompanyName,city,countryCode,siteType,lattitude,longitude
+S-00101,00101,SYNTH-00001,Helixor Heilmittel Gmbh Berlin,Helixor Heilmittel Gmbh,Berlin,DE,Manufacturing,50.0582,8.41
+S-00102,00102,SYNTH-00002,Laboratoires Pharma Developpement Strasbourg,Laboratoires Pharma Developpement,Strasbourg,FR,Manufacturing,48.0687,0.8478
+S-00103,00103,SYNTH-00003,"Laboratorio Stada, S.L. Hamburg","Laboratorio Stada, S.L.",Hamburg,DE,Manufacturing,49.6271,8.3748
+S-00104,00104,SYNTH-00004,A.Vogel B.V. Amsterdam,A.Vogel B.V.,Amsterdam,NL,Manufacturing,52.3214,3.4061
+S-00105,00105,SYNTH-00005,A.Vogel Limited Amsterdam,A.Vogel Limited,Amsterdam,NL,Supply,53.1641,6.1053
+S-00106,00106,SYNTH-00006,Manx Healthcare Ltd Cambridge,Manx Healthcare Ltd,Cambridge,GB,Supply,50.8818,-1.1429
+S-00107,00107,SYNTH-00007,Hormosan Pharma Gmbh Frankfurt,Hormosan Pharma Gmbh,Frankfurt,DE,Supply,52.5352,8.6386
+S-00108,00108,SYNTH-00008,"Tarbis Farma, S.L. Leiden","Tarbis Farma, S.L.",Leiden,NL,Both,51.4115,4.1613
+S-00109,00109,SYNTH-00009,Amazon.com Services LLC Boston,Amazon.com Services LLC,Boston,US,Manufacturing,37.871,-99.6131
+S-00110,00110,SYNTH-00010,"Teva Pharmaceuticals, Inc. Boston","Teva Pharmaceuticals, Inc.",Boston,US,Both,40.7285,-97.0811
+S-00111,00111,SYNTH-00011,"Evolus, Inc. Ridgefield","Evolus, Inc.",Ridgefield,US,Manufacturing,41.3925,-98.4859
+S-00112,00112,SYNTH-00012,HEC Pharm USA Inc. Boston,HEC Pharm USA Inc.,Boston,US,Manufacturing,40.8176,-97.5259
+S-00113,00113,SYNTH-00013,"Provell Pharmaceuticals, LLC Boston","Provell Pharmaceuticals, LLC",Boston,US,Manufacturing,39.8094,-97.1817
+S-00114,00114,SYNTH-00014,"i3 Pharmaceuticals, LLC Ridgefield","i3 Pharmaceuticals, LLC",Ridgefield,US,Manufacturing,40.1451,-96.9077
+S-00115,00115,SYNTH-00015,fmg Co.Ltd Ridgefield,fmg Co.Ltd,Ridgefield,US,Supply,40.9213,-96.5341
+S-00116,00116,SYNTH-00001,Helixor Heilmittel Gmbh Hamburg,Helixor Heilmittel Gmbh,Hamburg,DE,Manufacturing,50.6119,10.5427
+S-00117,00117,SYNTH-00002,Laboratoires Pharma Developpement Lyon,Laboratoires Pharma Developpement,Lyon,FR,Manufacturing,45.1506,1.9211
+S-00118,00118,SYNTH-00003,"Laboratorio Stada, S.L. Munich","Laboratorio Stada, S.L.",Munich,DE,Manufacturing,52.3073,10.7342
+S-00119,00119,SYNTH-00004,A.Vogel B.V. Amsterdam,A.Vogel B.V.,Amsterdam,NL,Manufacturing,52.7365,3.9846
+S-00120,00120,SYNTH-00005,A.Vogel Limited Amsterdam,A.Vogel Limited,Amsterdam,NL,Supply,50.9536,4.8178
+S-00121,00121,SYNTH-00006,Manx Healthcare Ltd London,Manx Healthcare Ltd,London,GB,Supply,52.7385,-0.1286
+S-00122,00122,SYNTH-00007,Hormosan Pharma Gmbh Frankfurt,Hormosan Pharma Gmbh,Frankfurt,DE,Supply,50.4162,8.1284
+S-00123,00123,SYNTH-00008,"Tarbis Farma, S.L. Leiden","Tarbis Farma, S.L.",Leiden,NL,Both,51.371,4.1439
+S-00124,00124,SYNTH-00009,Amazon.com Services LLC Boston,Amazon.com Services LLC,Boston,US,Manufacturing,40.1218,-98.4175
+S-00125,00125,SYNTH-00010,"Teva Pharmaceuticals, Inc. San Francisco","Teva Pharmaceuticals, Inc.",San Francisco,US,Manufacturing,38.5595,-99.0135
+S-00126,00126,SYNTH-00011,"Evolus, Inc. Boston","Evolus, Inc.",Boston,US,Manufacturing,40.4881,-98.2863
+S-00127,00127,SYNTH-00012,HEC Pharm USA Inc. San Francisco,HEC Pharm USA Inc.,San Francisco,US,Manufacturing,38.948,-96.0107
+S-00128,00128,SYNTH-00013,"Provell Pharmaceuticals, LLC Princeton","Provell Pharmaceuticals, LLC",Princeton,US,Manufacturing,39.5381,-99.6364
+S-00129,00129,SYNTH-00014,"i3 Pharmaceuticals, LLC Ridgefield","i3 Pharmaceuticals, LLC",Ridgefield,US,Manufacturing,40.9444,-99.3886
+S-00130,00130,SYNTH-00015,fmg Co.Ltd Princeton,fmg Co.Ltd,Princeton,US,Supply,40.6683,-98.3114

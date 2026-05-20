@@ -1,0 +1,33 @@
+SKU,name,specification,role,strength,strengthUnit,SMID,grade
+1001,Acetaminophen,ACE-ACE,API,325.0,mg/15mL,SMID-01001,GMP
+1002,Dextromethorphan Hydrobromide,DEX-HYD,API,10.0,mg/15mL,SMID-01002,GMP
+1003,Guaifenesin,GUA-GUA,API,200.0,mg/15mL,SMID-01003,GMP
+1004,Phenylephrine Hydrochloride,PHE-HYD,API,5.0,mg/15mL,SMID-01004,GMP
+1005,Sodium Fluoride,SOD-FLU,API,0.1,mg/mL,SMID-01005,GMP
+1006,microcrystalline cellulose,MCC,excipient,,,,Ph.Eur.
+1007,magnesium stearate,MgSt,excipient,,,,Ph.Eur.
+1008,lactose monohydrate,LAC-MH,excipient,,,,Ph.Eur.
+1009,hydroxypropyl methylcellulose,HPMC,excipient,,,,USP
+1010,croscarmellose sodium,CCS,excipient,,,,Ph.Eur.
+1011,talc,TALC,excipient,,,,Ph.Eur.
+1012,povidone,PVP,excipient,,,,USP
+1013,mannitol,MNT,excipient,,,,USP
+1014,silicon dioxide,SiO2,excipient,,,,Ph.Eur.
+1015,sodium stearyl fumarate,SSF,excipient,,,,NF
+1016,"starch, pregelatinised",STA,excipient,,,,Ph.Eur.
+1017,hypromellose,HPC,excipient,,,,USP
+1018,colloidal silicon dioxide,CSD,excipient,,,,Ph.Eur.
+1019,polysorbate 80,PS80,excipient,,,,Ph.Eur.
+1020,polyethylene glycol,PEG,excipient,,,,USP
+1021,2-amino-4-chlorobenzaldehyde,KSM-TCA,KSM,,,,Technical
+1022,1-(2-bromoethyl)piperazine dihydrobromide,KSM-PIP,KSM,,,,Technical
+1023,"1,3-dihydro-2H-benzimidazol-2-one",KSM-BIM,KSM,,,,Technical
+1024,4-fluorobenzaldehyde,KSM-FBA,KSM,,,,Technical
+1025,3-methylpiperazine,KSM-MPZ,KSM,,,,Technical
+1026,2-chloro-5-nitropyridine,KSM-CNP,KSM,,,,Technical
+1027,4-bromobenzyl bromide,KSM-BBB,KSM,,,,Technical
+1028,ethyl 4-aminobenzoate,KSM-EAB,KSM,,,,Technical
+1029,2-methylimidazole,KSM-MIM,KSM,,,,Technical
+1030,3-chloroperoxybenzoic acid,KSM-CPB,KSM,,,,Technical
+1031,trifluoroacetic anhydride,KSM-TFA,KSM,,,,Technical
+1032,diethyl azodicarboxylate,KSM-DAD,KSM,,,,Technical

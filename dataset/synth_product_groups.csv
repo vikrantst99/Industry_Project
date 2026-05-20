@@ -1,0 +1,5 @@
+productGroupId,code,name,businessSegment
+PG-001,5001,ACETAMINOPHEN,Neurology
+PG-002,5002,DEXTROMETHORPHAN,Infectious Diseases
+PG-003,5003,GUAIFENESIN,Cardiology
+PG-004,5004,PHENYLEPHRINE,Oncology

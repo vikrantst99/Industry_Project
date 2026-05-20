@@ -1,0 +1,36 @@
+SKU,PCID,bulkId,marketCountry,finishedGoodName,dosage,dosageForm,dosageFormName,packSize,packSizeUnit,packTechnology,contentPerPack,productGroupId,productGroupName,businessSegment,businessSegmentName,manufacturerSiteId,productStage
+200001,86001,FB-00001,FR,ACETAMINOPHEN,325MG/15ML,TAB,Film-coated tablet,30,ST,Blister,30,PG-001,ACETAMINOPHEN,Neurology,Neurology,S-00101,Commercialised
+200002,86001,FB-00001,IN,ACETAMINOPHEN,325MG/15ML,TAB,Film-coated tablet,60,ST,Blister,60,PG-001,ACETAMINOPHEN,Neurology,Neurology,S-00101,Commercialised
+200003,86001,FB-00001,DE,ACETAMINOPHEN,325MG/15ML,TAB,Film-coated tablet,60,ST,Blister,60,PG-001,ACETAMINOPHEN,Neurology,Neurology,S-00101,Commercialised
+200004,86002,FB-00002,DE,ACETAMINOPHEN,650MG/15ML,TAB,Film-coated tablet,14,ST,Blister,14,PG-001,ACETAMINOPHEN,Neurology,Neurology,S-00101,Commercialised
+200005,86002,FB-00002,IN,ACETAMINOPHEN,650MG/15ML,TAB,Film-coated tablet,100,ST,Bottle,100,PG-001,ACETAMINOPHEN,Neurology,Neurology,S-00101,Commercialised
+200006,86002,FB-00002,FR,ACETAMINOPHEN,650MG/15ML,TAB,Film-coated tablet,14,ST,Blister,14,PG-001,ACETAMINOPHEN,Neurology,Neurology,S-00101,Commercialised
+200007,86003,FB-00003,IN,DEXTROMETHORPHAN,10MG/15ML,CAP,Hard capsule,28,ST,Bottle,28,PG-002,DEXTROMETHORPHAN,Infectious Diseases,Infectious Diseases,S-00102,Commercialised
+200008,86003,FB-00003,US,DEXTROMETHORPHAN,10MG/15ML,CAP,Hard capsule,28,ST,Bottle,28,PG-002,DEXTROMETHORPHAN,Infectious Diseases,Infectious Diseases,S-00102,Commercialised
+200009,86003,FB-00003,FR,DEXTROMETHORPHAN,10MG/15ML,CAP,Hard capsule,100,ST,Bottle,100,PG-002,DEXTROMETHORPHAN,Infectious Diseases,Infectious Diseases,S-00102,Commercialised
+200010,86003,FB-00003,IT,DEXTROMETHORPHAN,10MG/15ML,CAP,Hard capsule,28,ST,Blister,28,PG-002,DEXTROMETHORPHAN,Infectious Diseases,Infectious Diseases,S-00102,Commercialised
+200011,86004,FB-00004,IN,DEXTROMETHORPHAN,20MG/15ML,CAP,Hard capsule,56,ST,Bottle,56,PG-002,DEXTROMETHORPHAN,Infectious Diseases,Infectious Diseases,S-00102,Commercialised
+200012,86004,FB-00004,US,DEXTROMETHORPHAN,20MG/15ML,CAP,Hard capsule,56,ST,Blister,56,PG-002,DEXTROMETHORPHAN,Infectious Diseases,Infectious Diseases,S-00102,Commercialised
+200013,86004,FB-00004,IT,DEXTROMETHORPHAN,20MG/15ML,CAP,Hard capsule,90,ST,Blister,90,PG-002,DEXTROMETHORPHAN,Infectious Diseases,Infectious Diseases,S-00102,Commercialised
+200014,86005,FB-00005,US,DEXTROMETHORPHAN,40MG/15ML,CAP,Hard capsule,28,ST,Blister,28,PG-002,DEXTROMETHORPHAN,Infectious Diseases,Infectious Diseases,S-00102,Commercialised
+200015,86005,FB-00005,IT,DEXTROMETHORPHAN,40MG/15ML,CAP,Hard capsule,28,ST,Bottle,28,PG-002,DEXTROMETHORPHAN,Infectious Diseases,Infectious Diseases,S-00102,Commercialised
+200016,86005,FB-00005,DE,DEXTROMETHORPHAN,40MG/15ML,CAP,Hard capsule,28,ST,Bottle,28,PG-002,DEXTROMETHORPHAN,Infectious Diseases,Infectious Diseases,S-00102,Commercialised
+200017,86006,FB-00006,IT,GUAIFENESIN,200MG/15ML,SOL,Solution for injection,30,ml,Vial,30,PG-003,GUAIFENESIN,Cardiology,Cardiology,S-00103,Commercialised
+200018,86006,FB-00006,US,GUAIFENESIN,200MG/15ML,SOL,Solution for injection,250,ml,Bottle,250,PG-003,GUAIFENESIN,Cardiology,Cardiology,S-00103,Commercialised
+200019,86006,FB-00006,FR,GUAIFENESIN,200MG/15ML,SOL,Solution for injection,30,ml,Bottle,30,PG-003,GUAIFENESIN,Cardiology,Cardiology,S-00103,Commercialised
+200020,86007,FB-00007,FR,GUAIFENESIN,400MG/15ML,SOL,Solution for injection,150,ml,Vial,150,PG-003,GUAIFENESIN,Cardiology,Cardiology,S-00103,Commercialised
+200021,86007,FB-00007,IN,GUAIFENESIN,400MG/15ML,SOL,Solution for injection,50,ml,Vial,50,PG-003,GUAIFENESIN,Cardiology,Cardiology,S-00103,Commercialised
+200022,86007,FB-00007,US,GUAIFENESIN,400MG/15ML,SOL,Solution for injection,30,ml,Bottle,30,PG-003,GUAIFENESIN,Cardiology,Cardiology,S-00103,Commercialised
+200023,86008,FB-00008,DE,GUAIFENESIN,800MG/15ML,SOL,Solution for injection,100,ml,Vial,100,PG-003,GUAIFENESIN,Cardiology,Cardiology,S-00103,Commercialised
+200024,86008,FB-00008,US,GUAIFENESIN,800MG/15ML,SOL,Solution for injection,250,ml,Vial,250,PG-003,GUAIFENESIN,Cardiology,Cardiology,S-00103,Commercialised
+200025,86008,FB-00008,IT,GUAIFENESIN,800MG/15ML,SOL,Solution for injection,50,ml,Bottle,50,PG-003,GUAIFENESIN,Cardiology,Cardiology,S-00103,Commercialised
+200026,86008,FB-00008,FR,GUAIFENESIN,800MG/15ML,SOL,Solution for injection,100,ml,Bottle,100,PG-003,GUAIFENESIN,Cardiology,Cardiology,S-00103,Commercialised
+200027,86009,FB-00009,CH,PHENYLEPHRINE,5MG/15ML,OSOL,Oral solution,100,ml,Bottle,100,PG-004,PHENYLEPHRINE,Oncology,Oncology,S-00104,Commercialised
+200028,86009,FB-00009,IN,PHENYLEPHRINE,5MG/15ML,OSOL,Oral solution,30,ml,Vial,30,PG-004,PHENYLEPHRINE,Oncology,Oncology,S-00104,Commercialised
+200029,86009,FB-00009,DE,PHENYLEPHRINE,5MG/15ML,OSOL,Oral solution,250,ml,Bottle,250,PG-004,PHENYLEPHRINE,Oncology,Oncology,S-00104,Commercialised
+200030,86010,FB-00010,CH,PHENYLEPHRINE,10MG/15ML,OSOL,Oral solution,30,ml,Bottle,30,PG-004,PHENYLEPHRINE,Oncology,Oncology,S-00104,Commercialised
+200031,86010,FB-00010,DE,PHENYLEPHRINE,10MG/15ML,OSOL,Oral solution,50,ml,Vial,50,PG-004,PHENYLEPHRINE,Oncology,Oncology,S-00104,Commercialised
+200032,86010,FB-00010,FR,PHENYLEPHRINE,10MG/15ML,OSOL,Oral solution,30,ml,Bottle,30,PG-004,PHENYLEPHRINE,Oncology,Oncology,S-00104,Commercialised
+200033,86011,FB-00011,CH,PHENYLEPHRINE,20MG/15ML,OSOL,Oral solution,250,ml,Vial,250,PG-004,PHENYLEPHRINE,Oncology,Oncology,S-00104,Commercialised
+200034,86011,FB-00011,DE,PHENYLEPHRINE,20MG/15ML,OSOL,Oral solution,100,ml,Bottle,100,PG-004,PHENYLEPHRINE,Oncology,Oncology,S-00104,Commercialised
+200035,86011,FB-00011,US,PHENYLEPHRINE,20MG/15ML,OSOL,Oral solution,100,ml,Bottle,100,PG-004,PHENYLEPHRINE,Oncology,Oncology,S-00104,Commercialised

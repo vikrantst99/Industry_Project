@@ -1,0 +1,16 @@
+orgId,name,countryCode,orgType,roles
+SYNTH-00001,Helixor Heilmittel Gmbh,DE,Pharmaceutical,manufacturer
+SYNTH-00002,Laboratoires Pharma Developpement,FR,Pharmaceutical,manufacturer
+SYNTH-00003,"Laboratorio Stada, S.L.",DE,Pharmaceutical,manufacturer
+SYNTH-00004,A.Vogel B.V.,NL,Pharmaceutical,manufacturer
+SYNTH-00005,A.Vogel Limited,NL,Chemical,supplier
+SYNTH-00006,Manx Healthcare Ltd,GB,Chemical,supplier
+SYNTH-00007,Hormosan Pharma Gmbh,DE,Analytical Lab,supplier
+SYNTH-00008,"Tarbis Farma, S.L.",NL,Pharmaceutical,"supplier,manufacturer"
+SYNTH-00009,Amazon.com Services LLC,US,Pharmaceutical,"supplier,manufacturer"
+SYNTH-00010,"Teva Pharmaceuticals, Inc.",US,Pharmaceutical,"supplier,manufacturer"
+SYNTH-00011,"Evolus, Inc.",US,Pharmaceutical,manufacturer
+SYNTH-00012,HEC Pharm USA Inc.,US,Pharmaceutical,manufacturer
+SYNTH-00013,"Provell Pharmaceuticals, LLC",US,Pharmaceutical,manufacturer
+SYNTH-00014,"i3 Pharmaceuticals, LLC",US,Pharmaceutical,manufacturer
+SYNTH-00015,fmg Co.Ltd,US,Chemical,supplier

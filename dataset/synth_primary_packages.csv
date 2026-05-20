@@ -1,0 +1,12 @@
+packageId,packageType,material,closureType
+PRI-00001,BLI,PVC Blister Foil,Snap cap
+PRI-00002,BLI,PVC Blister Foil,Crimp seal
+PRI-00003,BLI,PVC Blister Foil,Crimp seal
+PRI-00004,BLI,PVC Blister Foil,Crimp seal
+PRI-00005,BLI,PVC Blister Foil,Screw cap
+PRI-00006,VIA,Type I Glass Vial 5mL,Snap cap
+PRI-00007,VIA,Type I Glass Vial 5mL,Crimp seal
+PRI-00008,VIA,Type I Glass Vial 5mL,Snap cap
+PRI-00009,VIA,Type I Glass Vial 5mL,Screw cap
+PRI-00010,VIA,Type I Glass Vial 5mL,Snap cap
+PRI-00011,VIA,Type I Glass Vial 5mL,Snap cap

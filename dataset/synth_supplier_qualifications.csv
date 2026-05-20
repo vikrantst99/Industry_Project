@@ -1,0 +1,58 @@
+qualificationId,sourceDocument,supplierOrgId,supplierSiteId,substanceId,substanceName,status,isPrimary,grade,approvedDate,expiryDate
+QAA-00001,QAA-00001-SYNTH-00015.pdf,SYNTH-00015,S-00130,1001,Acetaminophen,Closed - Inactive,True,GMP,2020-04-10,2024-02-09
+QAA-00002,QAA-00002-SYNTH-00008.pdf,SYNTH-00008,S-00108,1001,Acetaminophen,Pending Qualification,False,GMP,2018-12-04,2025-04-04
+QAA-00003,QAA-00003-SYNTH-00010.pdf,SYNTH-00010,S-00110,1002,Dextromethorphan Hydrobromide,Closed - Inactive,True,GMP,2017-10-09,2025-02-12
+QAA-00004,QAA-00004-SYNTH-00005.pdf,SYNTH-00005,S-00105,1002,Dextromethorphan Hydrobromide,Active,False,GMP,2017-09-04,
+QAA-00005,QAA-00005-SYNTH-00006.pdf,SYNTH-00006,S-00106,1003,Guaifenesin,Active,True,GMP,2017-06-11,
+QAA-00006,QAA-00006-SYNTH-00008.pdf,SYNTH-00008,S-00123,1003,Guaifenesin,Active,False,GMP,2019-02-19,
+QAA-00007,QAA-00007-SYNTH-00006.pdf,SYNTH-00006,S-00106,1004,Phenylephrine Hydrochloride,Closed - Inactive,True,GMP,2016-11-01,2025-09-29
+QAA-00008,QAA-00008-SYNTH-00009.pdf,SYNTH-00009,S-00109,1004,Phenylephrine Hydrochloride,Active,False,GMP,2018-07-01,
+QAA-00009,QAA-00009-SYNTH-00009.pdf,SYNTH-00009,S-00124,1005,Sodium Fluoride,Active,True,GMP,2017-03-23,
+QAA-00010,QAA-00010-SYNTH-00010.pdf,SYNTH-00010,S-00110,1005,Sodium Fluoride,Active,False,GMP,2022-01-13,
+QAA-00011,QAA-00011-SYNTH-00005.pdf,SYNTH-00005,S-00120,1006,microcrystalline cellulose,Closed - Inactive,True,Ph.Eur.,2021-09-25,2024-09-04
+QAA-00012,QAA-00012-SYNTH-00007.pdf,SYNTH-00007,S-00122,1007,magnesium stearate,Active,True,Ph.Eur.,2015-10-10,
+QAA-00013,QAA-00013-SYNTH-00005.pdf,SYNTH-00005,S-00120,1008,lactose monohydrate,Active,True,Ph.Eur.,2019-01-23,
+QAA-00014,QAA-00014-SYNTH-00008.pdf,SYNTH-00008,S-00123,1008,lactose monohydrate,Active,False,Ph.Eur.,2019-11-19,
+QAA-00015,QAA-00015-SYNTH-00010.pdf,SYNTH-00010,S-00125,1009,hydroxypropyl methylcellulose,Active,True,USP,2021-01-13,
+QAA-00016,QAA-00016-SYNTH-00008.pdf,SYNTH-00008,S-00123,1010,croscarmellose sodium,Active,True,Ph.Eur.,2017-10-02,
+QAA-00017,QAA-00017-SYNTH-00015.pdf,SYNTH-00015,S-00115,1010,croscarmellose sodium,Active,False,Ph.Eur.,2020-01-21,
+QAA-00018,QAA-00018-SYNTH-00015.pdf,SYNTH-00015,S-00130,1011,talc,Active,True,Ph.Eur.,2022-06-29,
+QAA-00019,QAA-00019-SYNTH-00007.pdf,SYNTH-00007,S-00122,1012,povidone,Closed - Inactive,True,USP,2017-01-14,2026-09-25
+QAA-00020,QAA-00020-SYNTH-00005.pdf,SYNTH-00005,S-00105,1012,povidone,Active,False,USP,2017-11-24,
+QAA-00021,QAA-00021-SYNTH-00007.pdf,SYNTH-00007,S-00122,1013,mannitol,Active,True,USP,2020-10-17,
+QAA-00022,QAA-00022-SYNTH-00009.pdf,SYNTH-00009,S-00109,1013,mannitol,Active,False,USP,2019-07-23,
+QAA-00023,QAA-00023-SYNTH-00009.pdf,SYNTH-00009,S-00124,1014,silicon dioxide,Active,True,Ph.Eur.,2020-07-03,
+QAA-00024,QAA-00024-SYNTH-00006.pdf,SYNTH-00006,S-00121,1014,silicon dioxide,Closed - Inactive,False,Ph.Eur.,2016-01-17,2025-08-25
+QAA-00025,QAA-00025-SYNTH-00008.pdf,SYNTH-00008,S-00108,1015,sodium stearyl fumarate,Active,True,NF,2021-07-10,
+QAA-00026,QAA-00026-SYNTH-00008.pdf,SYNTH-00008,S-00123,1016,"starch, pregelatinised",Active,True,Ph.Eur.,2021-03-04,
+QAA-00027,QAA-00027-SYNTH-00009.pdf,SYNTH-00009,S-00124,1016,"starch, pregelatinised",Active,False,Ph.Eur.,2020-02-02,
+QAA-00028,QAA-00028-SYNTH-00007.pdf,SYNTH-00007,S-00107,1017,hypromellose,Active,True,USP,2017-02-27,
+QAA-00029,QAA-00029-SYNTH-00015.pdf,SYNTH-00015,S-00130,1017,hypromellose,Active,False,USP,2021-01-03,
+QAA-00030,QAA-00030-SYNTH-00006.pdf,SYNTH-00006,S-00106,1018,colloidal silicon dioxide,Active,True,Ph.Eur.,2018-02-06,
+QAA-00031,QAA-00031-SYNTH-00005.pdf,SYNTH-00005,S-00120,1019,polysorbate 80,Active,True,Ph.Eur.,2017-01-04,
+QAA-00032,QAA-00032-SYNTH-00006.pdf,SYNTH-00006,S-00121,1019,polysorbate 80,Active,False,Ph.Eur.,2020-12-27,
+QAA-00033,QAA-00033-SYNTH-00007.pdf,SYNTH-00007,S-00107,1020,polyethylene glycol,Pending Qualification,True,USP,2021-03-16,2025-08-21
+QAA-00034,QAA-00034-SYNTH-00010.pdf,SYNTH-00010,S-00125,1021,2-amino-4-chlorobenzaldehyde,Active,True,Technical,2015-02-20,
+QAA-00035,QAA-00035-SYNTH-00006.pdf,SYNTH-00006,S-00121,1021,2-amino-4-chlorobenzaldehyde,Active,False,Technical,2019-12-10,
+QAA-00036,QAA-00036-SYNTH-00007.pdf,SYNTH-00007,S-00107,1022,1-(2-bromoethyl)piperazine dihydrobromide,Active,True,Technical,2020-05-10,
+QAA-00037,QAA-00037-SYNTH-00006.pdf,SYNTH-00006,S-00106,1022,1-(2-bromoethyl)piperazine dihydrobromide,Closed - Inactive,False,Technical,2019-06-30,2026-10-04
+QAA-00038,QAA-00038-SYNTH-00005.pdf,SYNTH-00005,S-00105,1023,"1,3-dihydro-2H-benzimidazol-2-one",Active,True,Technical,2021-04-24,
+QAA-00039,QAA-00039-SYNTH-00009.pdf,SYNTH-00009,S-00124,1023,"1,3-dihydro-2H-benzimidazol-2-one",Active,False,Technical,2017-10-13,
+QAA-00040,QAA-00040-SYNTH-00005.pdf,SYNTH-00005,S-00120,1024,4-fluorobenzaldehyde,Active,True,Technical,2021-12-08,
+QAA-00041,QAA-00041-SYNTH-00009.pdf,SYNTH-00009,S-00109,1024,4-fluorobenzaldehyde,Closed - Inactive,False,Technical,2019-04-08,2026-07-11
+QAA-00042,QAA-00042-SYNTH-00008.pdf,SYNTH-00008,S-00123,1025,3-methylpiperazine,Active,True,Technical,2021-12-18,
+QAA-00043,QAA-00043-SYNTH-00007.pdf,SYNTH-00007,S-00107,1025,3-methylpiperazine,Active,False,Technical,2016-02-11,
+QAA-00044,QAA-00044-SYNTH-00015.pdf,SYNTH-00015,S-00115,1026,2-chloro-5-nitropyridine,Active,True,Technical,2015-11-29,
+QAA-00045,QAA-00045-SYNTH-00006.pdf,SYNTH-00006,S-00106,1026,2-chloro-5-nitropyridine,Active,False,Technical,2021-03-10,
+QAA-00046,QAA-00046-SYNTH-00005.pdf,SYNTH-00005,S-00105,1027,4-bromobenzyl bromide,Active,True,Technical,2022-09-24,
+QAA-00047,QAA-00047-SYNTH-00006.pdf,SYNTH-00006,S-00121,1027,4-bromobenzyl bromide,Active,False,Technical,2017-08-06,
+QAA-00048,QAA-00048-SYNTH-00007.pdf,SYNTH-00007,S-00122,1028,ethyl 4-aminobenzoate,Active,True,Technical,2020-02-03,
+QAA-00049,QAA-00049-SYNTH-00010.pdf,SYNTH-00010,S-00110,1028,ethyl 4-aminobenzoate,Active,False,Technical,2017-12-19,
+QAA-00050,QAA-00050-SYNTH-00015.pdf,SYNTH-00015,S-00115,1029,2-methylimidazole,Active,True,Technical,2021-02-08,
+QAA-00051,QAA-00051-SYNTH-00010.pdf,SYNTH-00010,S-00110,1029,2-methylimidazole,Active,False,Technical,2017-12-24,
+QAA-00052,QAA-00052-SYNTH-00015.pdf,SYNTH-00015,S-00115,1030,3-chloroperoxybenzoic acid,Active,True,Technical,2018-06-13,
+QAA-00053,QAA-00053-SYNTH-00006.pdf,SYNTH-00006,S-00121,1030,3-chloroperoxybenzoic acid,Active,False,Technical,2020-04-03,
+QAA-00054,QAA-00054-SYNTH-00010.pdf,SYNTH-00010,S-00125,1031,trifluoroacetic anhydride,Pending Qualification,True,Technical,2020-08-11,2027-01-10
+QAA-00055,QAA-00055-SYNTH-00007.pdf,SYNTH-00007,S-00122,1031,trifluoroacetic anhydride,Active,False,Technical,2021-09-15,
+QAA-00056,QAA-00056-SYNTH-00005.pdf,SYNTH-00005,S-00120,1032,diethyl azodicarboxylate,Active,True,Technical,2015-04-16,
+QAA-00057,QAA-00057-SYNTH-00008.pdf,SYNTH-00008,S-00108,1032,diethyl azodicarboxylate,Active,False,Technical,2022-07-24,
